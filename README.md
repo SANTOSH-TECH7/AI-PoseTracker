@@ -126,4 +126,3 @@ pip install opencv-python mediapipe numpy
 
 ---
 
-For questions or suggestions, feel free to contribute or reach out!
